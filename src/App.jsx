@@ -1,5 +1,5 @@
 import './App.css'
-import img1 from "./assets/sid.jpg"
+import img1 from "./assets/main.pdf"
 
 function App() {
   
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="nptl">
-                <span><a href={img1} download="dbms certificate nptel.jpg">Course Certificate</a></span>
+                <span><a href={img1} download="dbms certificate nptel.pdf">Course Certificate</a></span>
       </div>
     </>
   )
